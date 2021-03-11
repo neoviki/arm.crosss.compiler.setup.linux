@@ -1,8 +1,9 @@
 # Unset existing compiler and setup x86 compiler as main compiler in Ubuntu 16.04
 #
 #              Author : Viki (a) Vignesh Natarajan
-#              Firma  : vikilabs.org               
+#              Firma  : vikiworks.io               
 #
+
 
 
 #Relink Compilation Parameter for Intel
